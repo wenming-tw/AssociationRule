@@ -1,4 +1,4 @@
-# AssociationRule
+# Association Rule
 2021 NCKU Data-Mining Project 1
 
 ## Running Code
